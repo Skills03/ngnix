@@ -36,6 +36,7 @@ Val-1   Val-2   Val-3
 - **HTTPS**: https://substrate-compute-27586.duckdns.org
 - **WSS**: wss://substrate-compute-27586.duckdns.org
 - **Health Check**: https://substrate-compute-27586.duckdns.org/health
+- **Docker API**: https://substrate-compute-27586.duckdns.org/docker/ (proxies to validator-1:8080)
 
 ### Nginx Optimizations
 
